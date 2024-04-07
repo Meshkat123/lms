@@ -14,15 +14,26 @@
             </li>
             <li><a class="has-arrow" href="javascript:void()" aria-expanded="false">
                     <i class="la la-user"></i>
-                    <span class="nav-text">Professors</span>
+                    <span class="nav-text">Teachers</span>
                 </a>
                 <ul aria-expanded="false">
-                    <li><a href="javascript:void()">All Professor</a></li>
-                    <li><a href="javascript:void()">Add Professor</a></li>
-                    <li><a href="javascript:void()">Edit Professor</a></li>
-                    <li><a href="javascript:void()">Professor Profile</a></li>
+                    <li><a href="javascript:void()">All Teacher</a></li>
+                    <li><a href="javascript:void()">Add Teacher</a></li>
+                    <li><a href="javascript:void()">Edit Teacher</a></li>
+                    <li><a href="javascript:void()">Teacher Profile</a></li>
                 </ul>
             </li>
+            <li><a class="has-arrow" href="javascript:void()" aria-expanded="false">
+                <i class="la la-user"></i>
+                <span class="nav-text">Students</span>
+            </a>
+            <ul aria-expanded="false">
+                <li><a href="javascript:void()">All Student</a></li>
+                <li><a href="javascript:void()">Add Student</a></li>
+                <li><a href="javascript:void()">Edit Student</a></li>
+                <li><a href="javascript:void()">Student Profile</a></li>
+            </ul>
+        </li>
         </ul>
         <div class="copyright">
             <p>LMS Saas Admin © 2024 All Rights Reserved</p>
