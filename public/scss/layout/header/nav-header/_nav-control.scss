@@ -8,14 +8,14 @@
     background-color:var(--nav-headbg);
     transition: all .2s ease;
     z-index: 20;
-	
+
     .logo-abbr {
         max-width: 3.7375rem;
     }
     .logo-compact {
         display: none;
     }
-	
+
     .brand-logo {
         display: flex;
         height: 100%;
@@ -25,6 +25,7 @@
         font-size: 1.125rem;
         color: $white;
         text-decoration: none;
+        background: navajowhite;
         font-weight: 700;
     }
     .brand-title {

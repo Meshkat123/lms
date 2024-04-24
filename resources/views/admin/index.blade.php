@@ -28,7 +28,7 @@
                         <i class="la la-user"></i>
                     </span>
                     <div class="media-body text-white">
-                        <p class="mb-1">New Students</p>
+                        <p class="mb-1">Total Teachers</p>
                         <h3 class="text-white">245</h3>
                         <div class="progress mb-2 bg-white">
                             <div class="progress-bar progress-animated bg-white" style="width: 50%"></div>
@@ -63,13 +63,13 @@
             <div class="card-body">
                 <div class="media">
                     <span class="me-3">
-                        <i class="la la-dollar"></i>
+                        <i class="la la-user"></i>
                     </span>
                     <div class="media-body text-white">
-                        <p class="mb-1">Fees Collection</p>
-                        <h3 class="text-white">25160$</h3>
+                        <p class="mb-1">Total Sub Admin</p>
+                        <h3 class="text-white">5</h3>
                         <div class="progress mb-2 bg-white">
-                            <div class="progress-bar progress-animated bg-white" style="width: 30%"></div>
+                            <div class="progress-bar progress-animated bg-white" style="width: 50%"></div>
                         </div>
                         <small>30% Increase in 30 Days</small>
                     </div>
@@ -80,7 +80,7 @@
     <div class="col-xl-6 col-xxl-6 col-lg-12 col-sm-12">
         <div class="card">
             <div class="card-header">
-                <h3 class="card-title">University Survey</h3>
+                <h3 class="card-title">Students Survey</h3>
             </div>
             <div class="card-body">
                 <div id="morris_bar_stalked" class="morris_chart_height ltr" style="height: 300px !important;"></div>
@@ -90,7 +90,7 @@
     <div class="col-xl-3 col-xxl-3 col-sm-6">
         <div class="card">
             <div class="card-header">
-                <h3 class="card-title">Donught Chart</h3>
+                <h3 class="card-title">Chart</h3>
             </div>
             <div class="card-body">
                 <div id="morris_donught_2" class="morris_chart_height ltr" style="height: 300px !important;"></div>
@@ -100,7 +100,7 @@
     <div class="col-xl-3 col-xxl-3 col-sm-6">
         <div class="card">
             <div class="card-header">
-                <h3 class="card-title">University Survey</h3>
+                <h3 class="card-title">Course Survey</h3>
             </div>
             <div class="card-body">
                 <div id="morris_area" class="morris_chart_height ltr" style="height: 300px !important;"></div>
